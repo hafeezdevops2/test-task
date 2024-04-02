@@ -9,7 +9,11 @@ There are two pull requests open on this repo. Each change is in its own branch.
 ```
 * feat: add base64 endpoint
 * feat: add user-agent endpoint
+<<<<<<< HEAD
 * fiat lux
+=======
+* init
+>>>>>>> feature/base64
 ```
 
 _ Any errors, missing features, missing tests, or failing tests will disqualify the solution. _
